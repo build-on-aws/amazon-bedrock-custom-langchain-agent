@@ -25,8 +25,9 @@ export S3_BUCKET=your_s3_bucket_name_here
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/amazon-bedrock-custom-langchain-agent.git
+git clone https://github.com/build-on-aws/amazon-bedrock-custom-langchain-agent.git
 ```
+
 Navigate into the project directory:
 ```bash
 cd amazon-bedrock-custom-langchain-agent
@@ -51,8 +52,6 @@ You can also run the agent in the terminal:
 ```bash
 python agent_aws.py
 ```
-
-
 
 ## Security
 
