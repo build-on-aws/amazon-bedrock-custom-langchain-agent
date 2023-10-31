@@ -1,0 +1,7 @@
+requests
+langchain
+faiss-cpu
+streamlit
+boto3
+botocore
+selenium
